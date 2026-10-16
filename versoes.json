@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.3",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.3/YDRA-Setup-1.0.3.exe",
-    "notas": "A versao continua no titulo mesmo com projeto aberto."
+    "versao": "1.0.4",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.4/YDRA-Setup-1.0.4.exe",
+    "notas": "Versao no titulo mesmo com projeto aberto. Consulta de versao mais rapida."
   },
   "firmware": {
     "versao": "1.0.4",
