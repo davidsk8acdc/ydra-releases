@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.8",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.8/YDRA-Setup-1.0.8.exe",
-    "notas": "Canal de atualizacao no menu Ajuda: teste e estavel separados."
+    "versao": "1.0.9",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.9/YDRA-Setup-1.0.9.exe",
+    "notas": "Ao conectar a placa, avisa se ha firmware mais novo que o dela."
   },
   "firmware": {
     "versao": "1.0.4",
