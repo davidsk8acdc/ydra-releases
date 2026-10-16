@@ -1,14 +1,14 @@
-{
-  "ferramenta": {
-    "versao": "1.0.9",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.9/YDRA-Setup-1.0.9.exe",
-    "notas": "Ao conectar a placa, avisa se ha firmware mais novo que o dela."
-  },
-  "firmware": {
-    "versao": "1.0.4",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-1.0.4/firmware.bin",
-    "sha256": "34b0c75460bb90dc601f5e472af506c7167f0ee3b610588fd08359e8bb36e2a2",
-    "tamanho": 1413120,
-    "notas": "Log do script sai pelo BLE no modo 3. Linha em branco nao trava mais o envio pelo radio."
-  }
+﻿{
+    "ferramenta":  {
+                       "versao":  "1.0.9",
+                       "url":  "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.9/YDRA-Setup-1.0.9.exe",
+                       "notas":  "Ao conectar a placa, avisa se ha firmware mais novo que o dela."
+                   },
+    "firmware":  {
+                     "versao":  "1.0.4",
+                     "url":  "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-1.0.4/firmware.bin",
+                     "sha256":  "34b0c75460bb90dc601f5e472af506c7167f0ee3b610588fd08359e8bb36e2a2",
+                     "tamanho":  1413120,
+                     "notas":  "Log do script sai pelo BLE no modo 3. Linha em branco nao trava mais o envio pelo radio."
+                 }
 }
