@@ -1,0 +1,14 @@
+{
+  "ferramenta": {
+    "versao": "1.0.0",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.0/YDRA-Setup-1.0.0.exe",
+    "notas": ""
+  },
+  "firmware": {
+    "versao": "COLOQUE_A_VERSAO",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-COLOQUE_A_VERSAO/firmware.bin",
+    "sha256": "34b0c75460bb90dc601f5e472af506c7167f0ee3b610588fd08359e8bb36e2a2",
+    "tamanho": 1413120,
+    "notas": ""
+  }
+}
