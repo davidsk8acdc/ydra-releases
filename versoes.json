@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.5",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.5/YDRA-Setup-1.0.5.exe",
-    "notas": "Icone valendo no aplicativo inteiro, inclusive na barra de tarefas."
+    "versao": "1.0.6",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.6/YDRA-Setup-1.0.6.exe",
+    "notas": "Fixar na barra de tarefas mantem o icone."
   },
   "firmware": {
     "versao": "1.0.4",
