@@ -1,7 +1,7 @@
 {
   "ferramenta": {
-    "versao": "1.0.13",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.13/YDRA-Setup-1.0.13.exe",
+    "versao": "1.0.14",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.14/YDRA-Setup-1.0.14.exe",
     "notas": "Ao conectar a placa, avisa se ha firmware mais novo que o dela."
   },
   "firmware": {
