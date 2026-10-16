@@ -5,9 +5,9 @@
     "notas": "Ao conectar a placa, avisa se ha firmware mais novo que o dela."
   },
   "firmware": {
-    "versao": "1.0.5",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-1.0.5/firmware.bin",
-    "sha256": "9ed8ffc29691e1cbb205896ad4b9f946d8102fc0d57f8df819be3f6f2032bd63",
+    "versao": "1.0.6",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-1.0.6/firmware.bin",
+    "sha256": "92dda9156ad39a6529278395d4b00c2daffd5725714cec912098d1b0afcbc571",
     "tamanho": 1413120,
     "notas": "Log do script sai pelo BLE no modo 3. Linha em branco nao trava mais o envio pelo radio."
   }
