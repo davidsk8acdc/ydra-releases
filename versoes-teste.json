@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.16",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.16/YDRA-Setup-1.0.16.exe",
-    "notas": "Ao conectar a placa, avisa se ha firmware mais novo que o dela."
+    "versao": "1.0.19",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.19/YDRA-Setup-1.0.19.exe",
+    "notas": "Sniffer com bytes que mudam em vermelho, decimal e conta. Biblioteca CAN com PGN e ID juntos, conta e apagar da placa."
   },
   "firmware": {
     "versao": "1.0.7",
