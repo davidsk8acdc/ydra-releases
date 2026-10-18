@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.20",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.20/YDRA-Setup-1.0.20.exe",
-    "notas": "Biblioteca CAN mostra so o que esta gravado no YDRA."
+    "versao": "1.0.21",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.21/YDRA-Setup-1.0.21.exe",
+    "notas": "Botao Compilar (F7) na aba Script: confere o script sem a placa."
   },
   "firmware": {
     "versao": "1.0.7",
