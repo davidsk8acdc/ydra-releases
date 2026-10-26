@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.21",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.21/YDRA-Setup-1.0.21.exe",
-    "notas": "Botao Compilar (F7) na aba Script: confere o script sem a placa."
+    "versao": "1.0.22",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.22/YDRA-Setup-1.0.22.exe",
+    "notas": "Botao Bibliotecas na aba CAN: J1939 padrao e 90 bibliotecas por veiculo, tiradas dos algoritmos Easy Logic."
   },
   "firmware": {
     "versao": "1.0.7",
