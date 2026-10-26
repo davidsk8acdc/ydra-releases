@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.24",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.24/YDRA-Setup-1.0.24.exe",
-    "notas": "Bibliotecas de veiculo para todos: o cliente usa os sinais sem ver ID, byte e conta (so o admin ve). O .ydra guarda o sinal protegido embaralhado."
+    "versao": "1.0.25",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.25/YDRA-Setup-1.0.25.exe",
+    "notas": "Sinal de veiculo aparece como 'biblioteca' (ID, byte e conta so no admin)."
   },
   "firmware": {
     "versao": "1.0.7",
