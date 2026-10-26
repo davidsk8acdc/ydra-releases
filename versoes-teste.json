@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.23",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.23/YDRA-Setup-1.0.23.exe",
-    "notas": "Bibliotecas: modo admin (Ferramentas > Entrar como admin) e bibliotecas do cliente (salvar, importar .json/.csv/.dbc, exportar)."
+    "versao": "1.0.24",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.24/YDRA-Setup-1.0.24.exe",
+    "notas": "Bibliotecas de veiculo para todos: o cliente usa os sinais sem ver ID, byte e conta (so o admin ve). O .ydra guarda o sinal protegido embaralhado."
   },
   "firmware": {
     "versao": "1.0.7",
