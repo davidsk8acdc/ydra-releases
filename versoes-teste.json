@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.27",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.27/YDRA-Setup-1.0.27.exe",
-    "notas": "Wi-Fi: a senha lida da placa nao vira mais (vazia)/(gravada); a mensagem de quando o roteador nao responde diz o que fazer."
+    "versao": "1.0.28",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.28/YDRA-Setup-1.0.28.exe",
+    "notas": "Textos da ferramenta revisados."
   },
   "firmware": {
     "versao": "1.1.10",
