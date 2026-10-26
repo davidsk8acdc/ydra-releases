@@ -1,14 +1,14 @@
 {
   "ferramenta": {
-    "versao": "1.0.7",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.7/YDRA-Setup-1.0.7.exe",
-    "notas": "Icone corrigido - agora aparece na janela, na barra e ao fixar."
+    "versao": "1.0.29",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.29/YDRA-Setup-1.0.29.exe",
+    "notas": "Textos da ferramenta revisados."
   },
   "firmware": {
-    "versao": "1.0.4",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-1.0.4/firmware.bin",
-    "sha256": "34b0c75460bb90dc601f5e472af506c7167f0ee3b610588fd08359e8bb36e2a2",
-    "tamanho": 1413120,
-    "notas": "Log do script sai pelo BLE no modo 3. Linha em branco nao trava mais o envio pelo radio."
+    "versao": "1.1.11",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-1.1.11/firmware.bin",
+    "sha256": "12b7b80da18ca51e8ebe10f12118cb49062d2eb71e74211a40792e0f03236fa6",
+    "tamanho": 1429504,
+    "notas": "Mensagens do console revisadas."
   }
 }
