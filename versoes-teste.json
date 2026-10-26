@@ -5,10 +5,10 @@
     "notas": "Textos da ferramenta revisados."
   },
   "firmware": {
-    "versao": "1.1.10",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-1.1.10/firmware.bin",
-    "sha256": "e95d965716b1f863e848e7acc5918f5c1600e7bd507c9c83a5c14795b16c2b77",
+    "versao": "1.1.11",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-1.1.11/firmware.bin",
+    "sha256": "12b7b80da18ca51e8ebe10f12118cb49062d2eb71e74211a40792e0f03236fa6",
     "tamanho": 1429504,
-    "notas": "MAC da placa aparece certo na aba Wi-Fi."
+    "notas": "Mensagens do console revisadas."
   }
 }
