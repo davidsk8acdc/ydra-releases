@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.26",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.26/YDRA-Setup-1.0.26.exe",
-    "notas": "Bibliotecas: criar, renomear e editar sinais sem precisar da placa; botao Por na biblioteca na aba CAN; apaga os instaladores antigos."
+    "versao": "1.0.27",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.27/YDRA-Setup-1.0.27.exe",
+    "notas": "Wi-Fi: a senha lida da placa nao vira mais (vazia)/(gravada); a mensagem de quando o roteador nao responde diz o que fazer."
   },
   "firmware": {
     "versao": "1.0.7",
