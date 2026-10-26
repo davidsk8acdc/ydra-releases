@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.21",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.21/YDRA-Setup-1.0.21.exe",
-    "notas": "Botao Compilar (F7) na aba Script: confere o script sem a placa."
+    "versao": "1.0.23",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.23/YDRA-Setup-1.0.23.exe",
+    "notas": "Bibliotecas: modo admin (Ferramentas > Entrar como admin) e bibliotecas do cliente (salvar, importar .json/.csv/.dbc, exportar)."
   },
   "firmware": {
     "versao": "1.0.7",
