@@ -2,7 +2,7 @@
   "ferramenta": {
     "versao": "1.0.25",
     "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.25/YDRA-Setup-1.0.25.exe",
-    "notas": "Sinal de veiculo aparece como 'biblioteca' (ID, byte e conta so no admin)."
+    "notas": "Bibliotecas de veiculos liberadas para todos os usuarios."
   },
   "firmware": {
     "versao": "1.0.7",
