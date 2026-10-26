@@ -5,10 +5,10 @@
     "notas": "Wi-Fi: a senha lida da placa nao vira mais (vazia)/(gravada); a mensagem de quando o roteador nao responde diz o que fazer."
   },
   "firmware": {
-    "versao": "1.0.7",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-1.0.7/firmware.bin",
-    "sha256": "c6e20c1d4854c987d149e64fd2a18d890f14adeced1edc6dccae2637aabc9fbd",
-    "tamanho": 1413120,
-    "notas": "Log do script sai pelo BLE no modo 3. Linha em branco nao trava mais o envio pelo radio."
+    "versao": "1.1.10",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/firmware-1.1.10/firmware.bin",
+    "sha256": "e95d965716b1f863e848e7acc5918f5c1600e7bd507c9c83a5c14795b16c2b77",
+    "tamanho": 1429504,
+    "notas": "MAC da placa aparece certo na aba Wi-Fi."
   }
 }
