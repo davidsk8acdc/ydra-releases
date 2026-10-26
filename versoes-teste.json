@@ -1,8 +1,8 @@
 {
   "ferramenta": {
-    "versao": "1.0.25",
-    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.25/YDRA-Setup-1.0.25.exe",
-    "notas": "Bibliotecas de veiculos liberadas para todos os usuarios."
+    "versao": "1.0.26",
+    "url": "https://github.com/davidsk8acdc/ydra-releases/releases/download/ferramenta-1.0.26/YDRA-Setup-1.0.26.exe",
+    "notas": "Bibliotecas: criar, renomear e editar sinais sem precisar da placa; botao Por na biblioteca na aba CAN; apaga os instaladores antigos."
   },
   "firmware": {
     "versao": "1.0.7",
